@@ -9,6 +9,10 @@ function App() {
         <p>
           Hello World!
         </p>
+=======
+        <img src={gatorLogo} className="App-logo" alt="logo" />
+        <p> Hello World! </p>
+        <p> My name is Lexi Szafranski and this is my project. </p>
       </header>
     </div>
   );
